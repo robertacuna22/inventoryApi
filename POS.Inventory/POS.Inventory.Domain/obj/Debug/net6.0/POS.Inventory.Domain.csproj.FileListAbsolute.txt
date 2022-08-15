@@ -1,0 +1,12 @@
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\bin\Debug\net6.0\POS.Inventory.Domain.deps.json
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\bin\Debug\net6.0\POS.Inventory.Domain.dll
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\bin\Debug\net6.0\POS.Inventory.Domain.pdb
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\POS.Inventory.Domain.csproj.AssemblyReference.cache
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\POS.Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\POS.Inventory.Domain.AssemblyInfoInputs.cache
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\POS.Inventory.Domain.AssemblyInfo.cs
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\POS.Inventory.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\POS.Inventory.Domain.dll
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\refint\POS.Inventory.Domain.dll
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\POS.Inventory.Domain.pdb
+C:\Users\RAcuna\Documents\GitHub\inventoryApi\POS.Inventory\POS.Inventory.Domain\obj\Debug\net6.0\ref\POS.Inventory.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pXSP7yQdi3d+IRC8vnSEXz3Lh1k0gDNttViS6Xx3F9s=",
+  "Source": "POS.Inventory",
+  "BasePath": "_content/POS.Inventory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

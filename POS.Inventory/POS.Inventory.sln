@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Inventory", "POS.Inventory\POS.Inventory.csproj", "{F130EC7B-D61A-4124-9754-B666A687E9B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Inventory.Repository", "POS.Inventory.Repository\POS.Inventory.Repository.csproj", "{D970FA9C-1BAD-4142-9EDB-FAFA1D275BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Inventory.Domain", "POS.Inventory.Domain\POS.Inventory.Domain.csproj", "{F0230244-A735-4A49-9CAB-1EB32E7C66D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F130EC7B-D61A-4124-9754-B666A687E9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F130EC7B-D61A-4124-9754-B666A687E9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F130EC7B-D61A-4124-9754-B666A687E9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D970FA9C-1BAD-4142-9EDB-FAFA1D275BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D970FA9C-1BAD-4142-9EDB-FAFA1D275BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D970FA9C-1BAD-4142-9EDB-FAFA1D275BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D970FA9C-1BAD-4142-9EDB-FAFA1D275BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0230244-A735-4A49-9CAB-1EB32E7C66D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0230244-A735-4A49-9CAB-1EB32E7C66D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0230244-A735-4A49-9CAB-1EB32E7C66D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0230244-A735-4A49-9CAB-1EB32E7C66D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
