@@ -9,27 +9,28 @@ using System.Web.Http;
 
 namespace IMS.Controllers
 {
-    public class BrandsController : ApiController
+    public class UnitOfMeasuresController : ApiController
     {
-        private readonly IBrandsServices _services;
-        public BrandsController(IBrandsServices services)
+        private readonly IUnitOfMeasureServices _services;
+        public UnitOfMeasuresController(IUnitOfMeasureServices services)
         {
             _services = services;
         }
 
         [HttpPost]
-        [Route("api/brands")]
-        public IHttpActionResult Save([FromBody] BrandsQuery model) {
+        [Route("api/measures")]
+        public IHttpActionResult Save([FromBody] MeasuresDto model)
+        {
 
             var brandId = (string.IsNullOrEmpty(model.Id) ? Guid.NewGuid() : new Guid(model.Id));
 
-            _services.Save(brandId, model.BrandName, model.Description);
+            _services.Save(brandId, model.UnitOfMeasure, model.Description);
 
             return Ok(model);
         }
 
         [HttpGet]
-        [Route("api/brands")]
+        [Route("api/measures")]
         public IHttpActionResult GetAll()
         {
 
@@ -39,7 +40,7 @@ namespace IMS.Controllers
         }
 
         [HttpDelete]
-        [Route("api/brands/{Id}")]
+        [Route("api/measures/{Id}")]
         public IHttpActionResult Delete(Guid Id)
         {
 
@@ -47,6 +48,5 @@ namespace IMS.Controllers
 
             return Ok();
         }
-
     }
 }

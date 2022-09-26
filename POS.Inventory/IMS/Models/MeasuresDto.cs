@@ -5,9 +5,8 @@ using System.Web;
 
 namespace IMS.Models
 {
-    public class BrandsQuery : BaseDto
+    public class MeasuresDto : BaseDto
     {
-        public string BrandName { get; set; }
-
+        public string UnitOfMeasure { get; set; }
     }
 }

@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessContract\IBrandsServices.cs" />
+    <Compile Include="BusinessContract\ICategoryServices.cs" />
+    <Compile Include="BusinessContract\IUnitOfMeasureServices.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Model\BaseDomain.cs" />
     <Compile Include="Model\Brands.cs" />

@@ -46,9 +46,13 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Contract\IBrandsRepository.cs" />
+    <Compile Include="Contract\ICategoryRepository.cs" />
     <Compile Include="Contract\IDapperConnection.cs" />
+    <Compile Include="Contract\IUnitOfMeasuresRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\BrandsRepository.cs" />
+    <Compile Include="Repository\CategoryRepository.cs" />
+    <Compile Include="Repository\UnitOfMeasuresRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />

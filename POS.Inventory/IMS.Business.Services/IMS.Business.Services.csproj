@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Channel\BrandsServices.cs" />
+    <Compile Include="Channel\CategoryServices.cs" />
+    <Compile Include="Channel\UnitOfMeasureServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

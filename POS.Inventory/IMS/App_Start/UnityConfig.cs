@@ -21,9 +21,13 @@ namespace IMS
             //repositories
             container.RegisterType<IDapperConnection, AppDatabaseConnection>();
             container.RegisterType<IBrandsRepository, BrandsRepository>();
+            container.RegisterType<ICategoryRepository, CategoryRepository>();
+            container.RegisterType<IUnitOfMeasuresRepository,UnitOfMeasuresRepository>();
 
             //services 
-            container.RegisterType<IBrandsServices, BrandsServices>(); 
+            container.RegisterType<IBrandsServices, BrandsServices>();
+            container.RegisterType<ICategoryServices, CategoryServices>();
+            container.RegisterType<IUnitOfMeasureServices, UnitOfMeasureServices>();
 
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }

@@ -5,9 +5,9 @@ using System.Web;
 
 namespace IMS.Models
 {
-    public class BrandsQuery : BaseDto
+    public abstract class BaseDto
     {
-        public string BrandName { get; set; }
-
+        public string Id { get; set; }
+        public string Description { get; set; }
     }
 }
