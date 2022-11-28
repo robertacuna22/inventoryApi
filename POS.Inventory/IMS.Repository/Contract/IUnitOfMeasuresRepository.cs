@@ -7,12 +7,9 @@ using System.Threading.Tasks;
 
 namespace IMS.Repository.Contract
 {
-    public interface IUnitOfMeasuresRepository
+    public interface IUnitOfMeasuresRepository : IBaseRepository
     {
         List<Measures> Get();
-
-        void Save(object parameter);
-
-        void Delete(object parameter);
+        
     }
 }

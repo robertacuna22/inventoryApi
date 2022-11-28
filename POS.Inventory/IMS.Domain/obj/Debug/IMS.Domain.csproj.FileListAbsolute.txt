@@ -1,5 +1,6 @@
-C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.csproj.CoreCompileInputs.cache
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\IMS.Domain.dll
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\IMS.Domain.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.csproj.AssemblyReference.cache
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.csproj.CoreCompileInputs.cache
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.dll
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.pdb

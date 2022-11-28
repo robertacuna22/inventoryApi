@@ -1,0 +1,15 @@
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Business.Services.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Business.Services.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Domain.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Repository.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Core.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\Dapper.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Domain.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Repository.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\IMS.Core.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Release\Dapper.xml
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Release\IMS.Business.Services.csproj.AssemblyReference.cache
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Release\IMS.Business.Services.csproj.CoreCompileInputs.cache
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Release\IMS.Business.Services.csproj.CopyComplete
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Release\IMS.Business.Services.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Release\IMS.Business.Services.pdb

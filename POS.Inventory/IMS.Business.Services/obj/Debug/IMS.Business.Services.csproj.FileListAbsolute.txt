@@ -1,3 +1,5 @@
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Debug\IMS.Business.Services.csproj.AssemblyReference.cache
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Debug\IMS.Business.Services.csproj.CoreCompileInputs.cache
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\IMS.Business.Services.dll
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\IMS.Business.Services.pdb
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\IMS.Domain.dll
@@ -8,8 +10,13 @@ C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Busines
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\IMS.Repository.pdb
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\IMS.Core.pdb
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\Dapper.xml
-C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Debug\IMS.Business.Services.csproj.AssemblyReference.cache
-C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Debug\IMS.Business.Services.csproj.CoreCompileInputs.cache
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Debug\IMS.Business.Services.csproj.CopyComplete
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Debug\IMS.Business.Services.dll
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\obj\Debug\IMS.Business.Services.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\Unity.Abstractions.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\Unity.Container.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\Unity.Abstractions.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Business.Services\bin\Debug\Unity.Container.pdb

@@ -18,16 +18,20 @@ namespace IMS
             // it is NOT necessary to register your controllers
 
             // e.g. container.RegisterType<ITestService, TestService>();
-            //repositories
+
             container.RegisterType<IDapperConnection, AppDatabaseConnection>();
             container.RegisterType<IBrandsRepository, BrandsRepository>();
             container.RegisterType<ICategoryRepository, CategoryRepository>();
-            container.RegisterType<IUnitOfMeasuresRepository,UnitOfMeasuresRepository>();
+            container.RegisterType<IUnitOfMeasuresRepository, UnitOfMeasuresRepository>();
+            container.RegisterType<IProductsRepository, ProductsRepository>();
+            container.RegisterType<ILogsRepository, LogsRepository>();
 
             //services 
             container.RegisterType<IBrandsServices, BrandsServices>();
             container.RegisterType<ICategoryServices, CategoryServices>();
             container.RegisterType<IUnitOfMeasureServices, UnitOfMeasureServices>();
+            container.RegisterType<IProductsServices, ProductsServices>();
+            container.RegisterType<ILogsServices, LogsServices>();
 
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }

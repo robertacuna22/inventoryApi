@@ -7,12 +7,10 @@ using System.Threading.Tasks;
 
 namespace IMS.Repository.Contract
 {
-    public interface ICategoryRepository
+    public interface ICategoryRepository : IBaseRepository
     {
         List<Categories> Get();
 
-        void Save(object parameter);
-
-        void Delete(object parameter);
+       
     }
 }

@@ -17,6 +17,7 @@ namespace IMS
             GlobalConfiguration.Configure(WebApiConfig.Register);
 
             UnityConfig.RegisterComponents();
+            Bootstrapper.Initialise();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
