@@ -4,3 +4,13 @@ C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.csproj.CoreCompileInputs.cache
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.dll
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.pdb
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\System.Web.Cors.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\System.Web.Http.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\System.Web.Http.xml
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS.Domain\obj\Debug\IMS.Domain.csproj.CopyComplete

@@ -37,6 +37,15 @@ namespace IMS.Repository.Repository
             }
         }
 
+        public List<ProductsResponse> ProductSearch(object parameter)
+        {
+            using (var db = _connection.DatabaseContent.TryOpen())
+            {
+                var result = db.Query<ProductsResponse>("Products_SearchPagination", parameter, commandType: CommandType.StoredProcedure);
+                return result.ToList();
+            }
+        }
+
         public void Save(object parameter)
         {
             using (var db = _connection.DatabaseContent.TryOpen())

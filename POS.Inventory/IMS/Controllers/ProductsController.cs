@@ -1,4 +1,5 @@
 ﻿using IMS.Domain.BusinessContract;
+using IMS.Domain.Model.Dto;
 using IMS.Models;
 using Newtonsoft.Json;
 using System;
@@ -7,9 +8,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace IMS.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class ProductsController : ApiController
     {
         private readonly IProductsServices _services;
@@ -49,6 +52,15 @@ namespace IMS.Controllers
         public IHttpActionResult GetAll()
         {
             var result = _services.Get();
+
+            return Ok(result);
+        }
+
+        [HttpPost]
+        [Route("api/product/search")]
+        public IHttpActionResult Search(SearchPagination searchPagination)
+        {
+            var result = _services.ProductSearch(searchPagination);
 
             return Ok(result);
         }

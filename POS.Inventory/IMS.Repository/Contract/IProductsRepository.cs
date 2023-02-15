@@ -10,5 +10,6 @@ namespace IMS.Repository.Contract
     public interface IProductsRepository : IBaseRepository
     {
         List<ProductsResponse> Get();
+        List<ProductsResponse> ProductSearch(object parameter);
     }
 }

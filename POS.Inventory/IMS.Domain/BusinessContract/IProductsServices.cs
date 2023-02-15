@@ -11,7 +11,7 @@ namespace IMS.Domain.BusinessContract
     public interface IProductsServices
     {
         List<ProductsResponse> Get();
-
+        List<ProductsResponse> ProductSearch(SearchPagination model);
         void Save(ProductsDto productsDto);
 
         void Delete(Guid Id);

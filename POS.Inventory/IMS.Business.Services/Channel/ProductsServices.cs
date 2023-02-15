@@ -29,6 +29,13 @@ namespace IMS.Business.Services.Channel
             return resultList;
         }
 
+        public List<ProductsResponse> ProductSearch(SearchPagination model)
+        {
+            var resultList = _repository.ProductSearch(model);
+
+            return resultList;
+        }
+
         public void Save(ProductsDto productsDto)
         {
             _repository.Save(productsDto);

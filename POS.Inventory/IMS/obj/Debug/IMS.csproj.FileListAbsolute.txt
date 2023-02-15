@@ -90,3 +90,5 @@ C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS\bin\Sys
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS\bin\Unity.Mvc4.dll
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS\bin\Microsoft.Practices.Unity.Tracking.dll
 C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS\bin\Microsoft.Practices.Unity.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS\bin\System.Web.Http.Cors.dll
+C:\Users\RAcuna\OneDrive\Documents\GitHub\inventoryApi\POS.Inventory\IMS\bin\System.Web.Http.Cors.xml

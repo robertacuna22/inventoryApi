@@ -15,5 +15,8 @@ namespace IMS.Domain.Model
         public string Category { get; set; }
         public string UnitOfMeasure { get; set; }
         public decimal UnitPrice { get; set; }
+        public Guid CategoryId { get; set; }
+        public Guid BrandId { get; set; }
+        public Guid UOMId { get; set; }
     }
 }
