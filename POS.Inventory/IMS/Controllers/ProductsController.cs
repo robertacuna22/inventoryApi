@@ -23,7 +23,7 @@ namespace IMS.Controllers
 
         [HttpPost]
         [Route("api/product")]
-        public IHttpActionResult Save([FromBody] ProductsDto model)
+        public IHttpActionResult Save([FromBody] Models.ProductsDto model)
         {
             var serializeMappedResult = JsonConvert.SerializeObject(model);
             var mappedProductsResult = JsonConvert.DeserializeObject<IMS.Domain.Model.Dto.ProductsDto>(serializeMappedResult);
@@ -36,7 +36,7 @@ namespace IMS.Controllers
 
         [HttpPut]
         [Route("api/product/{Id}")]
-        public IHttpActionResult Update(Guid Id, [FromBody] ProductsDto model)
+        public IHttpActionResult Update(Guid Id, [FromBody] Models.ProductsDto model)
         {
             var serializeMappedResult = JsonConvert.SerializeObject(model);
             var mappedProductsResult = JsonConvert.DeserializeObject<IMS.Domain.Model.Dto.ProductsDto>(serializeMappedResult);
@@ -58,7 +58,7 @@ namespace IMS.Controllers
 
         [HttpPost]
         [Route("api/product/search")]
-        public IHttpActionResult Search(SearchPagination searchPagination)
+        public IHttpActionResult Search([FromBody] SearchPagination searchPagination)
         {
             var result = _services.ProductSearch(searchPagination);
 

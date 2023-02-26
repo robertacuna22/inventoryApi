@@ -9,7 +9,7 @@ namespace IMS.Domain.Model.Dto
     public class SearchPagination
     {
         public string Keyword { get; set; }
-        public int PageNo { get; set; }
-        public int PageSize { get; set; }
+        public int? PageNo { get; set; } = 1;
+        public int? PageSize { get; set; } = 10;
     }
 }
