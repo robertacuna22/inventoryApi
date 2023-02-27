@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IMS-Web.config Connection String" description="IMS Connection String used in web.config by the application to access the database." defaultValue="Data Source=RANDEM-RACUNA\SQLEXPRESS; Initial Catalog=InventoryContent; Integrated Security=True;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\RAcuna\\OneDrive\\Documents\\GitHub\\inventoryApi\\POS\.Inventory\\IMS\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='IMS']/@connectionString" />
-  </parameter>
-</parameters>

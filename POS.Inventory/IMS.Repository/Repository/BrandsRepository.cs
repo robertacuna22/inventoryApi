@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IMS.Repository.Repository
+namespace IMS.Repository
 {
     public class BrandsRepository : IBrandsRepository
     {

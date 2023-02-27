@@ -61,7 +61,6 @@
     <Compile Include="BusinessContract\ILogsServices.cs" />
     <Compile Include="BusinessContract\IProductsServices.cs" />
     <Compile Include="BusinessContract\IUnitOfMeasureServices.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Model\BaseDomain.cs" />
     <Compile Include="Model\Brands.cs" />
     <Compile Include="Model\Categories.cs" />

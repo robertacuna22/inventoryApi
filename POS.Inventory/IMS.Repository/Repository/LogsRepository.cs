@@ -8,11 +8,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IMS.Repository.Repository
+namespace IMS.Repository
 {
     public class LogsRepository : ILogsRepository
     {
-
 
         private readonly IDapperConnection _connection;
         public LogsRepository(IDapperConnection connection)
